@@ -1,0 +1,31 @@
+html {/*최상위 요소의 폰트 크기*/
+    font-size: 15px;
+}
+
+article {/*상위 요소의 폰트 크기의 3배 크기*/
+    font-size: 20px;
+}
+
+article h1 {/*바로위 상위 요소의 폰트 크기의 3배 크기*/
+    font-size: 3em;
+}
+
+article p {/*바로위 상위 요소의 폰트 크기의 1배 크기*/
+    font-size: 1em;
+}
+
+article a {/*바로위 상위 요소의 폰트 크기의 0.7배 크기*/
+    font-size: 0.7em;
+}
+
+div h1 {/*최상위 요소의 폰트 크기의 3배 크기*/
+    font-size: 3rem;
+}
+
+div p {/*최상위 요소의 폰트 크기의 1배 크기*/
+    font-size: 1rem;
+}
+
+div a {/*최상위 요소의 폰트 크기의 0.7배 크기*/
+    font-size: 0.7rem;
+}
